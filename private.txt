@@ -2,6 +2,8 @@ payload:
   - 'instant.arubanetworks.com'
   - 'setmeup.arubanetworks.com'
   - 'router.asus.com'
+  - '+.jiayisiyu.com'
+  - '+.joinyen.com'
   - '+.lan'
   - '+.localdomain'
   - '+.example'
